@@ -1,0 +1,7 @@
+
+
+GET  https://rmr3prtpk5.execute-api.ap-south-1.amazonaws.com/prod//spaces
+###
+
+POST  https://rmr3prtpk5.execute-api.ap-south-1.amazonaws.com/prod//spaces
+###
